@@ -540,13 +540,13 @@ iframe {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://raw.githubusercontent.com/HldMC/HldMC.github.io/main/img/avatar.jpg");
+    url("../file/bg.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://raw.githubusercontent.com/HldMC/HldMC.github.io/main/img/avatar.jpg") center center fixed;
+    url("../file/bg.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -577,7 +577,7 @@ iframe {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://raw.githubusercontent.com/HldMC/HldMC.github.io/main/img/avatar.jpg") !important;
+      url("../file/bg.jpg") !important;
   }
 }
 
